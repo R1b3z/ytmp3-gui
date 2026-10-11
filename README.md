@@ -50,7 +50,13 @@ python main.py
 
 ## App
 
-<img width="1080" height="530" alt="ytmp3-final" src="https://github.com/user-attachments/assets/e39f5384-0856-41d7-b3fe-2d3b60da05c4" />
+- ### UI Feedback
+
+<img width="1080" height="530" alt="ytmp3-final" src="https://github.com/user-attachments/assets/89f0d9d7-36b5-4e9d-82ef-e86a89af5a37" />
+
+- ### Workflow
+
+<img width="1080" height="530" alt="ytmp3-workflow" src="https://github.com/user-attachments/assets/df5d9074-b3eb-4a62-a8ec-156ea6874864" />
 
 
 
