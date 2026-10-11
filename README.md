@@ -48,6 +48,12 @@ python main.py
 - `ytmp3.bat` — shortcut to start the app on Windows.
 - `downloads/` — destination folder for the MP3 files.
 
+## App
+
+<img width="1080" height="530" alt="ytmp3-final" src="https://github.com/user-attachments/assets/e39f5384-0856-41d7-b3fe-2d3b60da05c4" />
+
+
+
 ## Note
 
 Only use the app with contents that you have the right to download and respect YouTube terms of service and applicable copyrights.
