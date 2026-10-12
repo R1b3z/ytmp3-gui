@@ -52,7 +52,7 @@ python main.py
 
 - ### UI Feedback
 
-<img width="1080" height="530" alt="ytmp3-final" src="https://github.com/user-attachments/assets/89f0d9d7-36b5-4e9d-82ef-e86a89af5a37" />
+<img width="1080" height="610" alt="ytmp3-v0 2 0-feedback" src="https://github.com/user-attachments/assets/a1b3eccf-df4a-4233-9301-1ca27fd06045" />
 
 - ### Workflow
 
