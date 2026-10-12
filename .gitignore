@@ -1,4 +1,4 @@
 downloads/
-dist/
-build/
+src/dist/
+src/build/
 main.spec
