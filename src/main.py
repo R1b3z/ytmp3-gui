@@ -30,6 +30,8 @@ class App(customtkinter.CTk):
         self.minsize(width, height)
         self.maxsize(width, height)
 
+        #self.iconbitmap("/media/icon.ico")
+
         self.grid_columnconfigure(0, weight=1)
         self.grid_rowconfigure(1, weight=1)  
 
