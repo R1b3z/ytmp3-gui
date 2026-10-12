@@ -1,6 +1,14 @@
-# YTmp3
+# YTmp3 
+
+![Python package](https://github.com/R1b3z/ytmp3-gui/actions/workflows/python-package.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/R1b3z/ytmp3-gui?include_prereleases)
+![Last commit](https://img.shields.io/github/last-commit/R1b3z/ytmp3-gui)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 
 A simple Application with a GUI to extract the audio of a YouTube video and save it in MP3 format.
+
+![Screenshot](docs/screenshot.png)
 
 ## What the program uses
 
