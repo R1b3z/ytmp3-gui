@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/github/license/R1b3z/ytmp3-gui)
 
 A simple Application with a GUI to extract the audio of a YouTube video and save it in MP3 format.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBCC9&center=true&vCenter=true&width=800&lines=GUI+Application+%7C+Extract+Audio+of+YouTube;MP3+%7C+M4A;Save+Video+%7C+MKV+or+MP4" alt="Typing SVG" />
 
 ![Screenshot](docs/screenshot.png)
 
