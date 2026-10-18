@@ -1,3 +1,5 @@
+<div align="center">
+  
 # YTmp3 
 
 ![Python package](https://github.com/R1b3z/ytmp3-gui/actions/workflows/python-package.yml/badge.svg)
@@ -7,8 +9,12 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/github/license/R1b3z/ytmp3-gui)
 
-A simple Application with a GUI to extract the audio of a YouTube video and save it in MP3 format.
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBCC9&center=true&vCenter=true&width=800&lines=GUI+Application+%7C+Extract+Audio+of+YouTube;MP3+%7C+M4A;Save+Video+%7C+MKV+or+MP4" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBCC9&center=true&vCenter=true&width=800&lines=GUI+Application;Extract+Audio+of+YouTube+%7C+MP3+or+M4A;Save+Video+as+MKV+or+MP4" alt="Typing SVG" />
+
+</div>
+
+## App
 
 ![Screenshot](docs/screenshot.png)
 
